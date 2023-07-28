@@ -1,6 +1,3 @@
-"""Sadaf Khan, LING570, HW3, 01/26/2021. Implements a Multivariate Bernoulli Naive Bayes model on a text file of
-feature vector, class label pairs."""
-
 import math
 import os
 import sys

@@ -1,5 +1,3 @@
-"""Sadaf Khan, LING570, HW3, 01/26/2021. Implements a Multinomial Naive Bayes model"""
-
 import os
 import sys
 from sklearn.metrics import confusion_matrix, accuracy_score
