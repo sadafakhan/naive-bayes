@@ -1,3 +1,3 @@
 #!/bin/sh
 
-python3 ./build_NB1.py $@
+python3 src/build_NB1.py $@
